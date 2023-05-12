@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently enrolled in Cohort 62 at Nashville Software School. 🌐</div>  
