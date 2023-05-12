@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently enrolled in Cohort 62 at Nashville Software School. 🌐</div>  
+### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently enrolled in Cohort 62 at Nashville Software School 🌐</div>  
   
 
 - Learning Python and Django right now  
@@ -10,7 +10,7 @@
 - Previously built a React app for my front-end capstone  
   
 
-- Looking forward to wrapping up at NSS June 23rd  
+- Looking forward to receiving my certificate June 23rd  
   
 
 <br/>  
