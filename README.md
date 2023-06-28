@@ -8,6 +8,7 @@
   
 
 - Previously deployed my fullstack application - PantryCheck 🛒 - using React and Django!
+   <br/> 
   https://netlify--sparkling-pasca-2d369e.netlify.app/
 
 - Always looking for opportunities to learn more and expand my knowledge base!
