@@ -1,13 +1,14 @@
-### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently enrolled in Cohort 62 at Nashville Software School 🌐  </div>  
+### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently open to work 🌐  </div>  
   
 
-- Learning Python and Django right now    
+- Graduated from Nashville Software School in June 2023
   
 
-- Previously built a React app for my front-end capstone  
+- Proficient in HTML, CSS, JavaScript, React, Django, Python, and SQLite and I am always looking for opportunities to learn more and expand my knowledge base
   
 
-- Looking forward to receiving my certificate June 23rd  
+- Previously deployed my fullstack application - PantryCheck 🛒 using React and Django!
+  https://netlify--sparkling-pasca-2d369e.netlify.app/
   
 
 <br/>  
