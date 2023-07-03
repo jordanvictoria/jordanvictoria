@@ -11,7 +11,7 @@
    <br/> 
   https://netlify--sparkling-pasca-2d369e.netlify.app/
 
-- Always looking for opportunities to learn more and expand my knowledge base!
+- Always looking for opportunities to expand my knowledge base..
   
 
 <br/>  
