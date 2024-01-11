@@ -1,7 +1,7 @@
 ### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently open to work 🌐  </div>  
   
 
-- Graduated from Nashville Software School in June 2023 📜 
+- Graduated from Nashville Software School in Summer 2023 📜 
   
 
 - Proficient in HTML, CSS, JavaScript, React, Django, Python, and SQLite ⚛️ 
