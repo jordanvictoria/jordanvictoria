@@ -1,23 +1,5 @@
-### <div align="center">My name is Jordan Victoria and I am a full-stack software developer currently open to work 🌐  </div>  
+### <div align="center">full stack product engineer at RevSpring🌐  </div>  
   
-
-- Graduated from Nashville Software School in Summer 2023 📜 
-  
-
-- Proficient in HTML, CSS, JavaScript, React, Django, Python, and SQLite ⚛️ 
-  
-
-- Previously deployed 2 fullstack applications using React and Django!
-  <br/>
-  Bandplanner 🥁
-  https://band-planner-9b2a3c99e7e8.herokuapp.com/
-   <br/>
-   and
-   <br/>
-  PantryCheck 🛒 
-  https://netlify--sparkling-pasca-2d369e.netlify.app/
-
-- Always looking for opportunities to expand my knowledge base..
   
 
 <br/>  
